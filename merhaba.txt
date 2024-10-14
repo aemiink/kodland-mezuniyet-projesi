@@ -1,0 +1,4 @@
+printf('Merhaba Github!');
+
+string a = '15';
+printf(a);
