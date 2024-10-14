@@ -1,4 +1,5 @@
-printf('Merhaba Github!');
+print('Merhaba Github!')
 
-string a = '15';
-printf(a);
+a = '15'
+print(a)
+
